@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+
+}
+.psw-container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 50%;
+    background-color: lightcoral;
+    transition: linear .8s;
+}
